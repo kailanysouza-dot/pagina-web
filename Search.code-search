@@ -1,0 +1,14 @@
+# Query: 
+# ContextLines: 1
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Página no GitHub Pages</title>
+</head>
+<body>
+    <h1>Bem-vindo à Minha Página</h1>
+    <p>Essa página foi criada como parte da atividade de HTML e hospedagem no GitHub Pages.</p>
+</body>
+</html>
